@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
 # Feature Weights
-
 FEATURE_WEIGHTS = {
     # Sleep & Routine
     "sleep_time": 10,
